@@ -215,6 +215,7 @@ function validarPago() {
     };
 };
 
+
 //funcion que resetea todos los valores una vez finalizada la compra 
 function vaciarCarrito() {
     $("#gastoTotal").text("Total: $0");
