@@ -24,7 +24,7 @@ $(document).ready(function () {
         icon: 'error',
         title: 'carrito vacio',
         text: 'Agrega algun articulo',
-        confirmButtonColor: "#444444"
+        confirmButtonColor: "#008000"
       })
     }
   });
